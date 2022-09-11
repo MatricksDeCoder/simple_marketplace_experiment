@@ -1,0 +1,7 @@
+node_modules
+cache
+artifacts
+*.log
+.env
+.mnemonic.txt
+.env.local
